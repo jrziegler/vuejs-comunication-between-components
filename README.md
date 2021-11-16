@@ -1,4 +1,4 @@
-# comunicacao-desafio
+# communication between components in VueJS
 
 ## Project setup
 ```
